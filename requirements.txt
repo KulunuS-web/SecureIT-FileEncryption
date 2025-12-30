@@ -1,0 +1,26 @@
+# SecureIT - File Encryption System
+# Python Package Requirements
+# Python Version: 3.11+
+
+# Core Cryptography
+cryptography>=41.0.0
+
+# GUI (Built-in with Python, but listed for reference)
+# tkinter is included with Python standard library
+
+# Testing (Optional - for development)
+pytest>=7.4.0
+pytest-cov>=4.1.0
+
+# Code Quality (Optional - for development)
+pylint>=2.17.0
+flake8>=6.0.0
+
+# Build Tools (Optional - for creating executable)
+pyinstaller>=6.0.0
+
+# Database (Built-in with Python)
+# sqlite3 is included with Python standard library
+
+# Additional utilities (all built-in with Python)
+# os, pathlib, json, datetime, threading, getpass, struct, typing
